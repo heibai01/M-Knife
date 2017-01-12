@@ -4,9 +4,11 @@
 
 M-Knife 全名Multi-function Knife，是一款程序员好助手。她拥有如下功能：随机字符串生成、UUID生成、大小写转换、字符串计数等。
 
+![demo](https://raw.githubusercontent.com/heibai01/M-Knife/master/record.gif)
+
 ### 功能点
 
-> 以上所有命令中的直接Enter换成CMD-Enter，会直接将结果粘贴在当前光标处
+> 以下所有命令中的直接Enter换成CMD-Enter，会直接将结果粘贴在当前光标处
 
 #### 随机字符串生成
 
